@@ -1,5 +1,7 @@
 # Craiglist-Linear-Regression
-Linear Regression Model for Predicting Used Car Prices on Charlotte Craigslist
+Linear Regression Model for Predicting Used Car Prices on Charlotte Craigslist.
+
+The complete project with explanation and results can be seen in the "FINAL PROJECT - V3.docx" file.
 
 This was my final project for Elements of Statistics II at UNC-Charlotte. The purpose of the project was to determine what quantitative and qualitative variables would be statistically useful for the calling price of a used vehicle on Craigstlist in Charlotte.
 
