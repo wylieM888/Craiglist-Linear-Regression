@@ -1,3 +1,8 @@
+# This program is a web scraper used to collect data on used vehicle ads on Charlotte Craigslist.
+# There are bugs in the program that causes the program to crash before reaching 500 vehicles.
+# I was able to scrape between 300-400 vehicles, which was sufficient for my purposes.
+# I may return at a later date to make the program function properly
+
 import requests
 import csv
 import time
